@@ -1,11 +1,16 @@
 <h1 align="center">Hi, I'm Facundo 👋</h1>
 <h3 align="center">Unity Game Developer · Buenos Aires, Argentina</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/facundo-colombo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://store.steampowered.com/app/3136530/Escape_Of_The_Hammer_Princess/"><img src="https://img.shields.io/badge/Steam-Escape_Of_The_Hammer_Princess-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Escape Of The Hammer Princess on Steam"/></a>
+</p>
+
 ---
 
 ## About me
 
-- 🎮 Professional **Unity / C#** developer since 2025.
+- 🎮 **Unity / C#** game developer.
 - 🎓 Studied game development at **Escuela Da Vinci** (Buenos Aires).
 - 🧠 I enjoy building **gameplay systems, game AI and multiplayer** — the parts of a game that have to be both fun and solid.
 - 🧱 I care about clean, maintainable code: **SOLID**, composition over inheritance, and reusable tools.
@@ -25,6 +30,7 @@
 
 | Project | What it is | Highlights |
 |---|---|---|
+| [**Escape Of The Hammer Princess**](https://store.steampowered.com/app/3136530/Escape_Of_The_Hammer_Princess/) 🎮 | Retro-styled action game that switches between 3D and 2D — on Steam. | First-person boomer-shooter action plus 2D platforming, pixel-art medieval comedy. Team project. |
 | [**AI Military Combat Simulation**](https://github.com/Kenshi23s/AI-Military-Combat-Simulation-Unity-C-) | Autonomous battlefield simulation: infantry, medics, snipers, turrets, planes and civilians fighting over capture points. | Event-driven FSMs, custom pathfinding, 3D spatial grid, field-of-view agents. Team project. |
 | [**Coop Puzzle Game**](https://github.com/Kenshi23s/Coop-Full-Auth-PuzzleGame) | Online co-op puzzle game. | Photon Fusion, lobby & session browser, networked character controller, levers / teleporters / elevators. |
 | [**Coop Fusion Framework**](https://github.com/Kenshi23s/Coop-Fusion-Shared-Framework-Project) | Multiplayer project built on Photon Fusion. | Network runner handling, networked players, local multi-instance testing with ParrelSync. |
